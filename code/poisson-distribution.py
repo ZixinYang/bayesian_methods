@@ -1,9 +1,9 @@
-```
+'''
 The Poisson distribution may be useful to model events such as
 - The number of meteorites greater than 1 meter diameter that strike Earth in a year
 - The number of patients arriving in an emergency room between 10 and 11 pm
 - The number of laser photons hitting a detector in a particular time interval
-```
+'''
 
 import scipy.stats as stats
 import numpy as np
