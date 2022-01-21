@@ -9,7 +9,7 @@ fastprogress==0.2.4
 h5py==2.10.0
 immutables==0.14
 ipykernel==5.3.4
-ipython==7.16.1
+ipython==7.16.3
 ipython-genutils==0.2.0
 jedi==0.17.2
 jupyter-client==6.1.6
